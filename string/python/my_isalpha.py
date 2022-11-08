@@ -1,6 +1,6 @@
 def my_isalpha(arg):
     '''
-    The isalpha() function returns True if all the characters are alphabet letters (a-z).
+    The my_isalpha(arg) function returns True if all the characters are alphabet letters (a-z).
     :param arg: To be examined arg.
     :type arg: str
     :returns: True or False
